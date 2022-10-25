@@ -1,0 +1,76 @@
+body {
+    background-image: url("./images/pattern-background-desktop.svg");
+    background-color: #E1E8FD;
+    height: 100%;
+    background-repeat: no-repeat;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 2;
+}
+h2 {
+    margin-bottom: 0;
+    display: inline-block;
+}
+h4 {
+    margin-top: 5%;
+    margin-bottom: 0.5%;
+    display: inline-block;
+}
+p {
+    display: inline-block;
+    width: 300px;
+    color: #9495A8
+}
+.btn {
+    background-color: #362AD8; /* Green */
+    border: none;
+    color: white;
+    margin: 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 50%;
+    border-radius: 10%;
+}
+.cancel {
+    display: inline-block;
+    margin-bottom: 10%;
+}
+.explanation {
+    margin-top: 0;
+}
+.main {
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    background-color: white;
+    width: fit-content;
+    border-radius: 5%;
+}
+.main-img {
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+.music-img {
+    float: left;
+    margin: 7% 3% 7% 7%;
+}
+.plan {
+    text-align: left;
+    background-color: #F9F9FE;
+    display: inline-block;
+    height: 30%;
+    width: 80%;
+}
+#change {
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    display: inline-block;
+    width: fit-content;
+    margin-top: 0;
+}
+#price {
+    margin-top: 0;
+    width: 60%;
+}
